@@ -1,5 +1,14 @@
 .section.header .navbar-brand {
-  color: #E7B974; }
+  color: #ebbf7c;
+  font-size: 25px;
+  letter-spacing: 15px;
+  font-weight: bold; }
+
+.section.header .navbar-nav {
+  padding-left: 120px; }
+
+.section.header .navbar-icons {
+  padding-left: 700px; }
 
 .section.header .section.header.text {
   background-color: #f3e4e2; }
@@ -7,6 +16,17 @@
 .section.header h5 {
   color: #97383e;
   height: 55px; }
+
+.section.header .bor {
+  color: #97383e;
+  border: 2px solid #97383e;
+  padding: 10px;
+  font-weight: bold; }
+
+.section.header a {
+  color: #a1a1a1;
+  font-weight: bold;
+  font-size: 18px; }
 
 .section.product {
   background-color: #FAFAFA; }
@@ -26,4 +46,5 @@
   .section.product .btn.btn-outline {
     border-color: #cb374f;
     color: #cb374f;
-    font-weight: bold; }
+    font-weight: bold;
+    border: 2px solid; }
