@@ -1,0 +1,29 @@
+.section.header .navbar-brand {
+  color: #E7B974; }
+
+.section.header .section.header.text {
+  background-color: #f3e4e2; }
+
+.section.header h5 {
+  color: #97383e;
+  height: 55px; }
+
+.section.product {
+  background-color: #FAFAFA; }
+  .section.product h2 {
+    font-family: Adobe Caslon Pro;
+    font-size: 55px;
+    font-weight: 400; }
+  .section.product p {
+    font-family: Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    color: #858585; }
+  .section.product .btn.btn-light {
+    background-color: #E7B974;
+    color: white;
+    font-weight: bold; }
+  .section.product .btn.btn-outline {
+    border-color: #cb374f;
+    color: #cb374f;
+    font-weight: bold; }
